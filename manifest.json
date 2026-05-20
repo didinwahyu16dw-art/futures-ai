@@ -1,0 +1,27 @@
+{
+  "name": "Futures AI Assistant",
+  "short_name": "Futures AI",
+  "description": "AI Trading Assistant untuk Futures Binance - Modal $16",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0c10",
+  "theme_color": "#0a0c10",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": []
+}
